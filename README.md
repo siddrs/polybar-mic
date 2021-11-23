@@ -37,3 +37,6 @@ label-font = 1
 Left click on the Microphone icon to toggle the microphone status
 
 Right click on the Microphone icon to open the 'Input Devices' tab on pavucontrol to Adjust the input volume.
+
+## module in action
+<img src="./mic-tog.gif" alt="preview" />
